@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TBC_Task_9</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="secutiry_screen">Secutiry screen</string>
+    <string name="enter_your_passcode">Enter your passcode</string>
+</resources>
